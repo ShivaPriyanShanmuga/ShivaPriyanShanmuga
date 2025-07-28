@@ -7,7 +7,7 @@
 🎮 Building: An iOS game & a Deep Learning classifier for CIFAR-100  
 🛠️ Tools: VS Code, Git, Docker, Figma, Unity, Aseprite  
 😄 Pronouns: He/Him  
-⚡ Fun fact: I love Python 🐍 and my favorite pokemon is volcanion!!  
+⚡ Fun fact: I love Python 🐍 and my favorite pokemon is vaporeon!!  
   
 # 🧰 Tech Stack
 <div>
