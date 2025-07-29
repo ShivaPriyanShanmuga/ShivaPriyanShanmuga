@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Shiva
+# Hi there! <img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2N4cmlrbTlydzgzcDE3ZWliNzNyem5qZmdqZHo3ZWJtM2hteThxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif' width="30px"> I'm Shiva
 
 🎓 I'm a Computer Science student at the University of Waterloo  
 💻 I love working on Python, ML, iOS apps, cool automations  and solving LeetCode challenges  
