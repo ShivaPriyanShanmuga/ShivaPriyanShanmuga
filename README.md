@@ -10,7 +10,7 @@
 ⚡ Fun fact: I love Python 🐍 and my favorite pokemon is vaporeon!!  
   
 # 🧰 Tech Stack
-<div>
+<div align="center">
     <img src='https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg' title='azure' alt='azure' height='40' width='40'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg' title='C' alt='C' height='35' width='35'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg' title='git' alt='git' height='40' width='40'>
@@ -24,4 +24,6 @@
     <img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg' title='mysql' alt='mysql' height='45' width='45'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' title='python' alt='python' height='40' width='40'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg' title='pytorch' alt='pytorch' height='40' width='40'>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg' title='bash' alt='bash' height='40' width='40'>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg' title='rust' alt='rust' height='40' width='40'>
 </div>
