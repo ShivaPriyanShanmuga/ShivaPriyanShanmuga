@@ -1,9 +1,12 @@
-# Hi there! <img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2N4cmlrbTlydzgzcDE3ZWliNzNyem5qZmdqZHo3ZWJtM2hteThxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif' width="30px"> I'm Shiva
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJ4YnRncTd3d2gwODE0cmJ2Z25jN2MzeXZramhiaXdueXRlaml0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TexuKBfvpWjaIuACrz/giphy.gif" width="300px">  
+  <h1>Hi there! <img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2N4cmlrbTlydzgzcDE3ZWliNzNyem5qZmdqZHo3ZWJtM2hteThxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif' width="30px"> I'm Shiva</h1>  
+</div>
 
 🎓 I'm a Computer Science student at the University of Waterloo  
-💻 I love working on Python, ML, iOS apps, cool automations  and solving LeetCode challenges  
+💻 I love working on Python, ML, iOS apps, cool automations and solving LeetCode challenges  
 🚀 Currently exploring AI, NLP, and systems-level programming with Rust  
-🌱 Learning: PyTorch, AWS, Swift  
+🌱 Learning: PyTorch, Azure, Swift  
 🎮 Building: An iOS game & a Deep Learning classifier for CIFAR-100  
 🛠️ Tools: VS Code, Git, Docker, Figma, Unity, Aseprite  
 😄 Pronouns: He/Him  
@@ -15,6 +18,7 @@
     <img src='https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg' title='C' alt='C' height='35' width='35'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg' title='git' alt='git' height='40' width='40'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg' title='haskell' alt='haskell' height='40' width='40'>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/racket/racket-original.svg" title="racket" alt="racket" height='40' width='40'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' title='html' alt='html' height='40' width='40'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' title='css' alt='css' height='40' width='40'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg' title='kaggle' alt='kaggle' height='40' width='40'>
@@ -27,3 +31,4 @@
     <img src='https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg' title='bash' alt='bash' height='40' width='40'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg' title='rust' alt='rust' height='40' width='40'>
 </div>
+--
