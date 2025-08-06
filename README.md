@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnAzcmpudW5jc25ramw3NmRqbXB4cHplbDNia3E4cDZlMjRydndydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KHh7jLrG6gIXBTnxsp/giphy.gif" width="300px">  
-  <h1>Hi there! <img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2N4cmlrbTlydzgzcDE3ZWliNzNyem5qZmdqZHo3ZWJtM2hteThxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif' width="30px"></h1>  
-  <h1>I'm Shiva</h1>  
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnAzcmpudW5jc25ramw3NmRqbXB4cHplbDNia3E4cDZlMjRydndydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KHh7jLrG6gIXBTnxsp/giphy.gif" width="600px">  
+  <h1>Hi there! <img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2N4cmlrbTlydzgzcDE3ZWliNzNyem5qZmdqZHo3ZWJtM2hteThxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif' width="30px"></h1><br>
+  <h1>I'm Shiva!!</h1>  
 </div>
 
 🎓 I'm a Computer Science student at the University of Waterloo  
