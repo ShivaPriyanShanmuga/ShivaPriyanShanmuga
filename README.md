@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnAzcmpudW5jc25ramw3NmRqbXB4cHplbDNia3E4cDZlMjRydndydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KHh7jLrG6gIXBTnxsp/giphy.gif" width="600px">  
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDk0OXpubDA0dmdmN3F1dzUxcXVyazI2aXBvdmV1ZjBrazMyMW9lYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH1jGsCnQBiFHWMFzh/giphy.gif" width="800px">  
   <h1>Hi there! <img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2N4cmlrbTlydzgzcDE3ZWliNzNyem5qZmdqZHo3ZWJtM2hteThxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif' width="30px"> I'm Shiva!!</h1>  
 </div>
 
