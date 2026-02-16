@@ -15,6 +15,7 @@
 # 🧰 Tech Stack
 <div align="center">
     <img src='https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg' title='azure' alt='azure' height='40' width='40'>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg' title='azure' alt='azure' height='45' width='45'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg' title='C' alt='C' height='35' width='35'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg' title='git' alt='git' height='40' width='40'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg' title='haskell' alt='haskell' height='40' width='40'>
