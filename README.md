@@ -3,16 +3,16 @@
   <h1>Hi there! <img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2N4cmlrbTlydzgzcDE3ZWliNzNyem5qZmdqZHo3ZWJtM2hteThxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif' width="30px"> I'm Shiva!!</h1>  
 </div>
 
-🎓 I'm a Computer Science student at the University of Waterloo  
-💻 I love working on Python, ML, iOS apps, cool automations and solving LeetCode challenges  
-🚀 Currently exploring AI, NLP, and systems-level programming with Rust  
-🌱 Learning: PyTorch, Azure, Swift  
-🎮 Building: An iOS game & a Deep Learning classifier for CIFAR-100  
-🛠️ Tools: VS Code, Git, Docker, Figma, Unity, Aseprite  
-😄 Pronouns: He/Him  
-⚡ Fun fact: I love Python 🐍 and my favorite pokemon is vaporeon!!  
+I'm a Computer Science student at the University of Waterloo  
+I love working on Python, ML, iOS apps, cool automations and solving LeetCode challenges  
+Currently exploring AI, NLP, and systems-level programming with Rust  
+Learning: PyTorch, Azure, Swift  
+Building: An iOS game & a Deep Learning classifier for CIFAR-100  
+Tools: VS Code, Git, Docker, Figma, Unity, Aseprite  
+Pronouns: He/Him  
+Fun fact: I love Python 🐍 and my favorite pokemon is vaporeon!!  
   
-# 🧰 Tech Stack
+# Tech Stack
 <div align="center">
     <img src='https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg' title='azure' alt='azure' height='40' width='40'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg' title='azure' alt='azure' height='45' width='45'>
